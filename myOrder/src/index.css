@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.protest-riot-regular {
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.navbar{
+    display: flex;
+    justify-content: center;
+    padding-left: 20rem; 
+   
+}
+ul>li{
+    list-style-type: none;
+    margin: 2rem;
+    color: white;
+    font-size: x-large;
+   
+    
+}
+.logoImage{
+    width: 7%;
+    margin-top: -25rem;
+    margin-left: 2rem;
+     
+}
+.tagline{
+    color: rgb(160, 57, 57);
+    font-size: 50px;
+    margin-top: 4rem;
+    font-family: 'Protest Riot';
+    font-style: italic;
+    
+}
+.tagline-two{
+    font-size: x-large;
+    color: white;
+   font-family: 'Protest Riot';
+    padding: rem;
+     margin-left: 11rem;
+}
+
+.Main-Button{
+   margin-left: 17rem;
+   margin-top: 3rem;
+   background-color: #3b191a;
+   color: #f4efef;
+   padding: 16px 30px;
+   font-family: 'Protest Riot';
+   font-size: 20px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+.Main-Button:hover{
+    background-color: rgb(99, 45, 6);
+}
+/* styles.css */
+.background-container {
+    background-image: url('https://img.freepik.com/premium-photo/coffee-cup-with-steam-wooden-table-dark-background_795422-6251.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+  }
+  
+  
